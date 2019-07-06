@@ -1,3 +1,3 @@
 # HotelWebsite
 
-Hosted live @ https://tsuth1101.github.io/HotelWebsite/
+Hosted live @ https://todd-sutherland.github.io/HotelWebsite/
